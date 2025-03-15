@@ -10,7 +10,7 @@ Installation Steps For Linux:
 
 Usage: 
 =======
-	./cookie-scout.sh --help
+	./cookie-scout.sh -r req.txt
 
 
 Example:
