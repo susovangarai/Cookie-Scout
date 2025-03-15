@@ -3,14 +3,14 @@ cookie-scout Tool Made By Susovan Garai (@VulnXpert)
 
 Installation Steps For Linux:
 ============================
-	1. unzip cookie-scout-*.zip
-	2. cd cookie-scout-*/
-	3. chmod +x cookie-scout.sh
+	unzip cookie-scout-*.zip
+	cd cookie-scout-*/
+	chmod +x cookie-scout.sh
 
 
 Usage: 
 =======
-	1. ./cookie-scout.sh --help
+	./cookie-scout.sh --help
 
 
 Example:
@@ -31,4 +31,4 @@ For both at same time:
 
 Optional:
 ==========
-	1. sudo ln -f cookie-scout.sh /usr/local/bin/cookie-scout
+	sudo ln -f cookie-scout.sh /usr/local/bin/cookie-scout
